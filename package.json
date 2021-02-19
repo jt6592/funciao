@@ -1,0 +1,27 @@
+{
+  "name": "react-map-firestore",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@firebase/firestore": "2.1.6",
+    "firebase": "8.2.6",
+    "leaflet": "1.3.4",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-firebase-hooks": "2.2.0",
+    "react-firebase-pagination-hooks": "1.0.0",
+    "react-leaflet": "2.0.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "2.0.0",
+    "service-worker": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

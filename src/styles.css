@@ -1,0 +1,67 @@
+.App {
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.leaflet-container {
+  height: 60vh;
+  width: 100%;
+  border-radius: 0.75rem;
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.tabBar-pin {
+}
+
+.tabBar {
+  height: 80px;
+  background-color: #1e68b3;
+}
+
+.navBar {
+  background-color: #1e68b3;
+}
+
+.tabIcon {
+  width: 100%;
+  max-height: 60px;
+  object-fit: contain;
+}
+
+.badgeIcon {
+  width: 100px;
+  object-fit: contain;
+}
+
+.statusIcon {
+  width: 30px;
+  object-fit: contain;
+}
+
+.text-funBlue {
+  color: #1e68b3;
+}
+
+.icon {
+  max-height: 50px;
+}
+
+.bg-funBlue {
+  background-color: #1e68b3;
+}
+
+.bg-sandyBrown {
+  background-color: #f39f70;
+}
+
+.gb-colonialWhite {
+  background-color: #ffe8c0;
+}
